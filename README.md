@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Karun Baji. I love playing with data and transforming raw information into meaningful insights. With expertise in Large Language Models (LLMs), Statistical Analytics, Machine Learning, and Data Analytics, I work on solving complex data-driven problems.<br><br>I also specialize in ETL pipelines on Google Cloud, leveraging Apache Beam, Dataflow, Pub/Sub, and BigQuery to build efficient and scalable data workflows. My projects range from deep learning applications to big data processing and cloud-based analytics.<br><br>🚀 Always exploring new ways to extract value from data!</h2>
+<h2 align="left">Hi 👋! My name is Karun Baji. I love playing with data and transforming raw information into meaningful insights</h2>
 
 ###
 
