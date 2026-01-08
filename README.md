@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Karun Baji. I love playing with data and transforming raw information into meaningful insights</h2>
+<h2 align="left">Hi 👋! I am Karun I love playing with data and transforming raw information into meaningful insights</h2>
 
 ###
 
